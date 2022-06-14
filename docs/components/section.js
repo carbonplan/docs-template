@@ -7,7 +7,6 @@ const Section = ({ children, name }) => {
       name={name}
       menu={{ contents }}
       title={`${name[0].toUpperCase() + name.slice(1)} – CarbonPlan`}
-      description={'TK'}
     >
       {children}
     </NavSection>
