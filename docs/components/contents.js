@@ -4,8 +4,8 @@ export const contents = {
     'Summary',
     {
       label: 'HelloWorldClass',
-      href: './generated/hello_project.HelloWorldClass',
+      href: 'generated/hello_project.HelloWorldClass',
     },
-    { label: 'hello_world', href: './generated/hello_project.hello_world' },
+    { label: 'hello_world', href: 'generated/hello_project.hello_world' },
   ],
 }
