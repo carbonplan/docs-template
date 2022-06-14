@@ -130,4 +130,3 @@ dmypy.json
 
 .next/
 node_modules/
-package-lock.json
