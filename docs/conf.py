@@ -50,8 +50,8 @@ source_suffix = ".rst"
 master_doc = "api"
 
 # General information about the project.
-project = u"PROJECT NAME"
-copyright = u"2021, CarbonPlan"
+project = "PROJECT NAME"
+copyright = "2021, CarbonPlan"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
